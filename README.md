@@ -188,5 +188,3 @@ reports/report_public.pdf
 python scripts/smoke_test.py
 python scripts/full_check.py
 ```
-
-На момент подготовки репозитория обе проверки проходят успешно.
